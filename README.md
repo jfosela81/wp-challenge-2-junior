@@ -1,6 +1,5 @@
 # Shortcode of contact form in WordPress
 
-Este es un simple shortcode para WordPress que permite añadir un formulario de contacto a tus páginas o entradas.
 Simple shortcode for WordPress to add a contact form to your posts or pages
 
 ## Use
